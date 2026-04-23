@@ -10,6 +10,6 @@ Este proyecto simula una tienda en linea
 José Antonio
 
 ## Qué practicar: ##  
-• Títulos (#)##
-- Listas (-)
+• Títulos (#)
+• Listas (-)
 • Negritas (**texto**) 
